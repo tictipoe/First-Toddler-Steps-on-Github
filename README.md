@@ -11,3 +11,7 @@ this seems to be a 'master' branch.
 locally i am at 'master' (of local i guess) and cannot pull because i have to merge something ??!?!? wtf
 
 so hey  . this is a sad beginning :)
+
+'REfusing to merge unrelated histories''' jeyaaaaa great.... so how to relate them ?
+
+
